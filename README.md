@@ -50,6 +50,6 @@ A GameMaker experiment for sprite work, object interactibility, scalability effi
 
 ---
 <div align="center">
-  <p>Thanks for visiting! ✨</p>
-  <img src="https://64.media.tumblr.com/d0635fa4e4bf417b33f24bd481c21f88/tumblr_ppcabrYCWy1ue08b9o1_540.gifv" height='100' width='fit-content'>
+  <p>Thanks for visiting!</p>
+  <img src="https://64.media.tumblr.com/d0635fa4e4bf417b33f24bd481c21f88/tumblr_ppcabrYCWy1ue08b9o1_540.gifv" height="100" style="display: block; margin: 0 auto; max-width: 100%;">
 </div>
