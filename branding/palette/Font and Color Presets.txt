@@ -1,0 +1,9 @@
+Color-Palette
+	- Gray Blue Light (#4c749d) 
+	- Gray Blue (#45607b)
+	- Azure (#165ea0)
+	- Vivid Azure (#6db7f2)
+Fonts
+	- Ubuntu (Emphasis)
+	- Fredoka (Header)
+	- Neue Machina (General Text)
